@@ -97,7 +97,7 @@ static TRVSClangFormat *sharedPlugin;
 //  [self addStyleMenuItemsToFormatMenu];
 //  [self addSeparatorToFormatMenu];
   [self addFormatOnSaveMenuItem];
-  [self addUseSystemClangFormatMenuItem];
+//  [self addUseSystemClangFormatMenuItem];
 }
 
 - (void)addActioningMenuItemsToFormatMenu {
